@@ -1,7 +1,9 @@
 body{
   padding: 0 12px;
   background-color: #292736;
+  font-family: "Poppins"!important;
 }
+
 .custom-black{
   background-color: #1E1822!important;
 }
@@ -16,4 +18,8 @@ body{
 
 .custom-purple{
   background-color: #9123FF!important;
+}
+
+.poppins{
+  font-family: "Poppins"!important;
 }

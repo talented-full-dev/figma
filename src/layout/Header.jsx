@@ -34,7 +34,7 @@ function Header() {
   };
 
   return (
-    <AppBar position="static" className="custom-black height">
+    <AppBar position="static" className="custom-black mb-6">
       <Container maxWidth="xl">
         <Toolbar disableGutters className="height">
           <Box sx={{ flexGrow: 1, display: { xs: "flex", md: "none" } }}>

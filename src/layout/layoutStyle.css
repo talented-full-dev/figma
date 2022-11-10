@@ -13,6 +13,15 @@
   min-height: fit-content!important;
 }
 
+.navbar{
+  height: 52px!important;
+  min-height: fit-content!important;
+}
+
+.w-75{
+  width: 75%!important;
+}
+
 .logo{
   width: 100%;
   position: absolute;
@@ -22,3 +31,40 @@
   box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.25);
   border-radius: 15px 15px 50px 50px;
 }
+
+.radius{
+  box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.25);
+  border-radius: 15px!important;
+}
+
+.rad-btn{
+  font-family: "Poppins" !important;
+  height: 52px;
+  min-width: 150px!important;
+  box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.25);
+  border-radius: 20px!important;
+  text-transform: unset!important;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.font16{
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px!important;
+  line-height: 21px!important;
+  text-transform: unset!important;
+  color: #FFFFFF;
+}
+
+.font10{
+  font-style: normal;
+  font-weight: 500;
+  font-size: 10px!important;
+  line-height: 15px!important;
+  color: #FFFFFF!important;
+  text-transform: unset!important;
+}
+
