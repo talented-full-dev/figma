@@ -1,0 +1,19 @@
+body{
+  padding: 0 12px;
+  background-color: #292736;
+}
+.custom-black{
+  background-color: #1E1822!important;
+}
+
+.custom-black-light{
+  background-color: #292736!important;
+}
+
+.custom-yello{
+  background-color: #E0AB21!important;
+}
+
+.custom-purple{
+  background-color: #9123FF!important;
+}
